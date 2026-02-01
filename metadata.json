@@ -1,0 +1,5 @@
+{
+  "name": "Silverdetector - Security Scanner",
+  "description": "A high-performance file and link security scanner powered by Gemini AI to detect potential threats, phishing attempts, and malicious patterns.",
+  "requestFramePermissions": []
+}
